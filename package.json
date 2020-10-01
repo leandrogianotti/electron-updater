@@ -10,7 +10,10 @@
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
     "out",
-    "src"
+    "src",
+    "typings",
+    "tsconfig-base.json",
+    "tsconfig.json"
   ],
   "scripts": {
     "tsc": "tsc --build"
