@@ -9,7 +9,8 @@
   "bugs": "https://github.com/electron-userland/electron-builder/issues",
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
-    "out"
+    "out",
+    "src"
   ],
   "scripts": {
     "tsc": "tsc --build"
