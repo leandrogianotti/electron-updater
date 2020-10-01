@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "@types/semver": "^7.3.4",
-    "builder-util-runtime": "workspace:*",
+    "builder-util-runtime": "8.7.2",
     "fs-extra": "^9.0.1",
     "js-yaml": "^3.14.0",
     "lazy-val": "^1.0.4",
