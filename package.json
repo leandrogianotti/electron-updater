@@ -11,6 +11,9 @@
   "files": [
     "out"
   ],
+  "scripts": {
+    "tsc": "tsc --build"
+  },
   "dependencies": {
     "@types/semver": "^7.3.4",
     "builder-util-runtime": "8.7.2",
